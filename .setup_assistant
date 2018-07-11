@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/sarath/Desktop/lynx.urdf
+  SRDF:
+    relative_path: config/lynxmotion_4d.srdf
+  CONFIG:
+    author_name: sarath
+    author_email: sarathmenon.downey@gmail.com
+    generated_timestamp: 1500358526
